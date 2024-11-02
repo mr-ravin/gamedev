@@ -26,7 +26,7 @@ render(){
      <u>Play the game</u> :
      <ul>
       <li>Google playstore: <a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=ravin.developer.rotationwars" target='_blank'>android install</a></li>
-      <li>Playonline on itch.io: <a target="_blank" rel="noopener noreferrer" href="https://ravinkumar.itch.io/rotationwars">play online</a></li>
+      <li>Play online on itch.io: <a target="_blank" rel="noopener noreferrer" href="https://ravinkumar.itch.io/rotationwars">play online</a></li>
       <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/RotationWars">source code</a></li>
      </ul>
      </p>
@@ -53,7 +53,7 @@ render(){
      <p align="justify">
      <u>Play the game</u> :
      <ul>
-     <li>Playonline on itch.io: <a target="_blank" rel="noopener noreferrer" href="https://ravinkumar.itch.io/blocks-n-head">play online</a></li>
+     <li>Play online on itch.io: <a target="_blank" rel="noopener noreferrer" href="https://ravinkumar.itch.io/blocks-n-head">play online</a></li>
       <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/Blocks-N-Head">source code</a></li>
      </ul>
      </p>
