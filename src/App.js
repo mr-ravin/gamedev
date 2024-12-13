@@ -59,8 +59,7 @@ function App() {
     </ol>
     
     <p align="justify">
-    <b>Note:</b> 
-    These games are minimalist, with RotationWars being an original idea. I’ve decided not to pursue large-scale game projects, as I feel video games often encourage excessive time consumption without adding meaningful value.
+    <b>Note:</b> These games are minimalist, with RotationWars being an original idea. I’ve decided not to pursue large-scale game projects, as I feel video games often encourage excessive time consumption without adding meaningful value.
     </p>
     </div>
     </div>
