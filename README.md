@@ -2,7 +2,7 @@
     
    <div>
      <ol>
-     <li> <b><u>RotationWars</u></b>
+     <li> <b><u>RotationWars 2</u></b>
      <p align="justify">
      An open-source minimalistic multiplayer video game developed with the Unity3D game engine for android, where players compete on a rotating platform. They can push each other and maneuver to avoid being pushed off. The goal is to make opponents fall off the platform to claim victory.
      </p>
