@@ -9,16 +9,15 @@
      <p align="justify">
      What adds to the challenge?
     <ol>
-    <li>The platform continuously accelerates.</li>
-    <li>Each collision affects the player's control direction, altering how movement buttons respond.</li>
+    <li>The platform continuously accelerates, making the game both challenging and fun.</li>
     </ol>
      </p>
      <p align="justify">
      <u>Play the game</u> :
      <ul>
-      <li>Google playstore: <a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=ravin.developer.rotationwars" target='_blank'>android install</a></li>
-      <li>Play online on itch.io: <a target="_blank" rel="noopener noreferrer" href="https://ravinkumar.itch.io/rotationwars">play online</a></li>
-      <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/RotationWars">source code</a></li>
+      <li>Google playstore: <a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=ravin.developer.rotationwars2" target='_blank'>android install</a></li>
+      <li>Play online on itch.io: <a target="_blank" rel="noopener noreferrer" href="https://ravinkumar.itch.io/rotationwars2">play online</a></li>
+      <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/RotationWars2">source code</a></li>
      </ul>
      </p>
      </li>
