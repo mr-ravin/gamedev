@@ -9,12 +9,13 @@ function App() {
      <ol>
      <li> <b><u>RotationWars 2</u></b>
      <p align="justify">
-     An open-source minimalistic multiplayer video game developed with the Unity3D game engine for Android and Web Browser, where players compete on a rotating platform. They can push each other and maneuver to avoid being pushed off. The goal is to make opponents fall off the platform to claim victory.
-     </p>
+     An open-source, minimalistic multiplayer game built with Unity3D for Android and Web Browser. Players battle on a dynamically rotating platform, pushing and maneuvering to stay on while knocking opponents off. The last player standing wins.     </p>
      <p align="justify">
-     What adds to the challenge?
+     What makes it challenging?
     <ol>
-    <li>The platform continuously accelerates, making the game both challenging and fun.</li>
+    <li>The platform's rotation continuously accelerates, making the game both challenging and fun.</li>
+    <li>After 10 seconds, the platform begins to shrink, forcing players into intense close-quarters combat.</li>
+    <li>A hypnotic spiral pattern on the platform creates a dizzying visual effect as it spins, adding to the challenge and immersion.</li>
     </ol>
      </p>
      <p align="justify">
