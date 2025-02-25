@@ -2,9 +2,9 @@
     
    <div>
      <ol>
-     <li> <b><u>RotationWars 2</u></b>
+     <li> <b><u>Rotation Wars 2</u></b>
      <p align="justify">
-     An open-source, minimalistic multiplayer game built with Unity3D for Android and Web Browser. Players battle on a dynamically rotating platform, pushing and maneuvering to stay on while knocking opponents off. The last player standing wins.
+     An open-source, minimalistic multiplayer game built with Unity3D for Android, Linux, and Web Browser. Players battle on a dynamically rotating platform, pushing and maneuvering to stay on while knocking opponents off. The last player standing wins.
      </p>
      <p align="justify">
     What makes it challenging?
@@ -19,7 +19,7 @@
      <ul>
       <li>Google playstore: <a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=ravin.developer.rotationwars2" target='_blank'>android install</a></li>
       <li>Play online on itch.io: <a target="_blank" rel="noopener noreferrer" href="https://ravinkumar.itch.io/rotationwars2">play online</a></li>
-      <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/RotationWars2">source code</a></li>
+      <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/rotationwars2">source code</a></li>
      </ul>
      </p>
      </li>
@@ -34,9 +34,9 @@
      </ul>
      </p>
      </li>
-     <li> <b><u>Blocks-N-Head</u></b>
+     <li> <b><u>Blocks 'N' Head</u></b>
      <p align="justify">
-     Blocks-N-Head is an open-source minimalistic video game where the objective is to help the character avoid falling blocks.
+     Blocks 'N' Head is an open-source minimalistic video game where the objective is to help the character avoid falling blocks.
      </p>
      <p align="justify">
      <u>Play the game</u> :
